@@ -1,4 +1,4 @@
-source 'https://github.com/BrayanSoria/EllipticCurveKit'
+source 'https://github.com/CocoaPods/Specs.git'
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
